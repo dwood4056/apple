@@ -1,0 +1,45 @@
+body
+{
+margin: auto;
+}
+
+.navigation
+{
+  background-color: #1a1919;
+  text-decoration: none;
+
+}
+.navigation ul
+{
+  margin-top: 0;
+  background-color: #1a1919;
+  padding: 10px;
+  text-align: center;
+ 
+}
+.navigation li
+{
+display: inline;
+padding: 25px;
+color: white;
+
+}
+.navigation a
+{
+	text-decoration: none;
+	color: #fff;
+}
+.bag{
+	    position: relative;
+    top: 5px;
+}
+.phone{
+  height: auto;
+  width: 100%;
+}
+
+.image{
+  width: 100%;
+  display: block;
+
+}
